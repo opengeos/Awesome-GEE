@@ -70,7 +70,7 @@
 ## QGIS
 
 - [Earth Engine QGIS Plugin](https://gee-community.github.io/qgis-earthengine-plugin/) - Integrates Google Earth Engine and QGIS using Python API.
-- [qgis-earthengine-examplesS](https://github.com/giswqs/qgis-earthengine-examples) - A collection of 300+ Python examples for using Google Earth Engine in QGIS.
+- [qgis-earthengine-examples](https://github.com/giswqs/qgis-earthengine-examples) - A collection of 300+ Python examples for using Google Earth Engine in QGIS.
 
 ## Apps
 
@@ -132,7 +132,7 @@
 
 ### Highlights
 
-- Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., Moore, R., 2017. Google Earth Engine: Planetary-scale geospatial analysis for everyone. Remote Sens. Environ. 202, 18–27. https://doi.org/10.1016/j.rse.2017.06.031
+- Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., Moore, R., 2017. Google Earth Engine: Planetary-scale geospatial analysis for everyone. _Remote Sens. Environ_. 202, 18–27. https://doi.org/10.1016/j.rse.2017.06.031
 
 ### Surface Water
 
