@@ -6,6 +6,7 @@
 
 - [Earth Engine official websites](#earth-engine-official-websites)
 - [Get Started](#get-started)
+- [Get Help](#get-help)
 - [JavaScript API](#javascript-api)
 - [Python API](#python-api)
 - [R](#r)
@@ -13,6 +14,8 @@
 - [Apps](#apps)
 - [Presentations](#presentations)
 - [Videos](#videos)
+- [Developers](#developers)
+- [Twitter](#twitter)
 - [Projects](#projects)
 - [Websites](#websites)
 - [Datasets](#datasets)
@@ -30,7 +33,7 @@
 - [Earth Engine Apps](https://www.earthengine.app/)
 - [Blog](https://medium.com/google-earth)
 - [Sign up](https://earthengine.google.com/signup/)
-- [Developers Forum](https://developers.google.com/earth-engine)
+- [Developer Forum](https://developers.google.com/earth-engine)
 - [Issue Tracker](https://issuetracker.google.com/issues?q=componentid:184426&p=1)
 - [Earth Engine API on GitHub](https://github.com/google/earthengine-api)
 
@@ -40,10 +43,23 @@
 2. Read the Earth Engine API documentation - [Get Started with Earth Engine](https://developers.google.com/earth-engine/getstarted).
 3. Read another Earth Engine API documentation - [Client vs. Server](https://developers.google.com/earth-engine/client_server). Make sure you have a good understanding of client-side objects vs server-side objects.
 4. Try out the [JavaScript API](https://code.earthengine.google.com/) or Python API (e.g., [geemap](https://github.com/giswqs/geemap)).
+5. Read [Coding Best Practices](https://developers.google.com/earth-engine/best_practices).
+
+## Get Help
+
+- [Earth Engine Developer Forum](https://groups.google.com/forum/#!forum/google-earth-engine-developers)
+- [GIS Stack Exchange](https://gis.stackexchange.com/questions/tagged/google-earth-engine)
+- [Report a bug](https://issuetracker.google.com/issues?q=componentid:184406&type:bug)
+- [Dataset requests](https://issuetracker.google.com/issues?q=componentid:184426%2B%20status:open)
+- [Feature requests](https://issuetracker.google.com/issues?q=componentid:184406%20type:feature_request%20status:open)
 
 ## JavaScript API
 
 - [JavaScript Code Editor](https://code.earthengine.google.com/) - The official Google Earth Engine JavaScript Code Editor.
+
+### Tutorials
+
+- [GEE 开发](https://zhuanlan.zhihu.com/c_123993183) on 知乎 by 无形的风
 
 ## Python API
 
@@ -65,7 +81,13 @@
 
 ## R
 
+### Packages
+
 - [rgee](https://github.com/r-spatial/rgee) - An R package for using Google Earth Engine.
+
+### Repositories
+
+- [rgee-examples](https://csaybar.github.io/rgee-examples/) - A collection of 250+ examples for using Google Earth Engine with R.
 
 ## QGIS
 
@@ -74,7 +96,8 @@
 
 ## Apps
 
-- [Earth Engine Apps](https://www.earthengine.app/)
+- [Earth Engine Apps](https://www.earthengine.app/) - Google
+- [An image gallery of almost all publicly available Google Earth Engine Apps](https://philippgaertner.github.io/2020/03/ee-apps/) - Philipp Gärtner
 
 ## Presentations
 
@@ -90,12 +113,33 @@
 
 - [Geo For Good 2019 on YouTube](https://www.youtube.com/playlist?list=PLLW-qoCMKQsxxXRmzxEJQhUrdX0kekHhV)
 
+### General
+
+- Getting Started with Earth Engine with Sabrina Szeto ([video](https://t.co/AQfGXvGksp?amp=1) | [slides](https://t.co/PM4Rqc604X?amp=1))
+- Earth Engine Virtual Meetup on May 6, 2020 ([video](https://t.co/6WdQd7m9ZS?amp=1))
+
 ### geemap
 
 - [geemap tutorials on YouTube](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3)
 - [geemap tutorials on 哔哩哔哩](https://space.bilibili.com/527404442/channel/detail?cid=132674)
 - [geemap tutorials on 西瓜视频](https://www.ixigua.com/home/676923482842317/)
-- [GeoInsider webinar on GEE](https://www.bilibili.com/video/BV1Ep4y1X7tJ)
+- GeoInsider webinar - Cloud computing and interactive mapping with Earth Engine and open-source GIS ([video](https://www.bilibili.com/video/BV1Ep4y1X7tJ) | [slides](https://gishub.org/geoinsider))
+
+## Developers
+
+## Twitter
+
+### Bots
+
+- [Earth Engine Bot](https://twitter.com/EarthEngineBot) | [Geospatial Python](https://twitter.com/geospatial_py) |
+
+### Google affiliated
+
+- [Google Earth](https://twitter.com/googleearth) | [Google Earth Outreach](https://twitter.com/googleearth) | [Tyler Erickson](https://twitter.com/tylerickson) | [Rebecca Moore](https://twitter.com/rebeccatmoore) | [Kurt Schwehr](https://twitter.com/kurtschwehr) |
+
+### Individuals
+
+- [Cesar Aybar](https://twitter.com/csaybar) | [Justin Braaten](https://twitter.com/jstnbraaten) | [Tirthankar "TC" Chakraborty](https://twitter.com/Chalkemort) | [Morgan Crowley](https://twitter.com/morganahcrowley) | [Gennadii Donchyts](https://twitter.com/gena_d) | [Ujaval Gandhi](https://twitter.com/spatialthoughts) | [Philipp Gärtner](https://twitter.com/gartn001) | [Belize GEO](https://twitter.com/BZgeo) | [Kel Markert](https://twitter.com/KelMarkert) | [Keiko Nomura](https://twitter.com/Keiko_geo) | [Samapriya Roy](https://twitter.com/samapriyaroy) | [Sabrina Szeto](https://twitter.com/SabrinaSzeto) | [Dave Thau](https://twitter.com/davethau) | [Qiusheng Wu](https://twitter.com/giswqs) |
 
 ## Projects
 
@@ -134,10 +178,11 @@
 
 - Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., Moore, R., 2017. Google Earth Engine: Planetary-scale geospatial analysis for everyone. _Remote Sens. Environ_. 202, 18–27. https://doi.org/10.1016/j.rse.2017.06.031
 
-### Surface Water
+### Hydrology
 
 - Pekel, J.-F., Cottam, A., Gorelick, N., Belward, A.S., 2016. High-resolution mapping of global surface water and its long-term changes. _Nature_ 540, 418–422. https://doi.org/10.1038/nature20584
 - Yamazaki, D., Trigg, M.A., 2016. Hydrology: The dynamics of Earth’s surface water. _Nature_. https://doi.org/10.1038/nature21100
+- Donchyts, G., Baart, F., Winsemius, H., Gorelick, N., Kwadijk, J., van de Giesen, N., 2016. Earth’s surface water change over the past 30 years. _Nat. Clim. Chang_. 6, 810. https://doi.org/10.1038/nclimate3111
 - Wu, Q., Lane, C.R., Li, X., Zhao, K., Zhou, Y., Clinton, N., DeVries, B., Golden, H.E., Lang, M.W., 2019. Integrating LiDAR data and multi-temporal aerial imagery to map wetland inundation dynamics using Google Earth Engine. _Remote Sens. Environ_. 228, 1–13. https://doi.org/10.1016/j.rse.2019.04.015
 
 ### Urban
