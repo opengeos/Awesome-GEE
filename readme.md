@@ -99,10 +99,11 @@
 - [cartoee](https://github.com/KMarkert/cartoee) - Publication quality maps using Earth Engine and Cartopy.
 - [gee_tools](https://github.com/gee-community/gee_tools) - A set of tools for working with Google Earth Engine Python API.
 - [landsat-extract-gee](https://github.com/loicdtx/landsat-extract-gee) - Get Landsat surface reflectance time-series from google earth engine.
+- [Ndvi2Gif](https://github.com/Digdgeo/Ndvi2Gif) - Creating seasonal NDVI compositions GIFs.
 
 ### Repositories
 
-- [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping.
+- [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter notebook examples for using Google Earth Engine with interactive mapping.
 - [earthengine-py-examples](https://github.com/giswqs/earthengine-py-examples) - A collection of 300+ examples for using Earth Engine and the geemap Python package.
 - [ee-tensorflow-notebooks](https://github.com/gee-community/ee-tensorflow-notebooks) - Repository to place example notebooks for Deep Learning applications with TensorFlow and Earth Engine.
 - [CoastSat](https://github.com/kvos/CoastSat) - Global shoreline mapping tool from satellite imagery.
@@ -120,32 +121,64 @@
 
 ## QGIS
 
-- Earth Engine QGIS Plugin ([Website](https://gee-community.github.io/qgis-earthengine-plugin/) | [GitHub](https://github.com/gee-community/qgis-earthengine-plugin)) - Integrates Google Earth Engine and QGIS using Python API.
+- Earth Engine QGIS Plugin ([Website](https://gee-community.github.io/qgis-earthengine-plugin/), [GitHub](https://github.com/gee-community/qgis-earthengine-plugin)) - Integrates Google Earth Engine and QGIS using Python API.
 - [qgis-earthengine-examples](https://github.com/giswqs/qgis-earthengine-examples) - A collection of 300+ Python examples for using Google Earth Engine in QGIS.
 
 ## GitHub Developers
 
 ### Community
 
-- [earthengine-api](https://github.com/google/earthengine-api) | [Google Earth Engine Community](https://github.com/gee-community)
+- [earthengine-api](https://github.com/google/earthengine-api)
+- [Google Earth Engine Community](https://github.com/gee-community)
 
 ### Individuals
 
-- [Cesar Aybar](https://twitter.com/csaybar) | [Justin Braaten](https://twitter.com/jstnbraaten) | [Tirthankar "TC" Chakraborty](https://twitter.com/Chalkemort) | [Morgan Crowley](https://twitter.com/morganahcrowley) | [Gennadii Donchyts](https://twitter.com/gena_d) | [Ujaval Gandhi](https://twitter.com/spatialthoughts) | [Philipp Gärtner](https://twitter.com/gartn001) | [Belize GEO](https://twitter.com/BZgeo) | [Kel Markert](https://twitter.com/KelMarkert) | [Keiko Nomura](https://twitter.com/Keiko_geo) | [Samapriya Roy](https://twitter.com/samapriyaroy) | [Sabrina Szeto](https://twitter.com/SabrinaSzeto) | [Dave Thau](https://twitter.com/davethau) | [Qiusheng Wu](https://twitter.com/giswqs) |
+- [Cesar Aybar](https://twitter.com/csaybar)
+- [Justin Braaten](https://twitter.com/jstnbraaten)
+- [Tirthankar "TC" Chakraborty](https://twitter.com/Chalkemort)
+- [Morgan Crowley](https://twitter.com/morganahcrowley)
+- [Diego Garcia Diaz](https://github.com/Digdgeo)
+- [Gennadii Donchyts](https://twitter.com/gena_d)
+- [Ujaval Gandhi](https://twitter.com/spatialthoughts)
+- [Philipp Gärtner](https://twitter.com/gartn001)
+- [Belize GEO](https://twitter.com/BZgeo)
+- [Kel Markert](https://twitter.com/KelMarkert)
+- [Keiko Nomura](https://twitter.com/Keiko_geo)
+- [Samapriya Roy](https://twitter.com/samapriyaroy)
+- [Sabrina Szeto](https://twitter.com/SabrinaSzeto)
+- [Dave Thau](https://twitter.com/davethau)
+- [Qiusheng Wu](https://twitter.com/giswqs)
 
 ## Twitter
 
 ### Bots
 
-- [Earth Engine Bot](https://twitter.com/EarthEngineBot) | [Geospatial Python](https://twitter.com/geospatial_py) |
+- [Earth Engine Bot](https://twitter.com/EarthEngineBot)
+- [Geospatial Python](https://twitter.com/geospatial_py)
 
 ### Google affiliated
 
-- [Google Earth](https://twitter.com/googleearth) | [Google Earth Outreach](https://twitter.com/googleearth) | [Tyler Erickson](https://twitter.com/tylerickson) | [Rebecca Moore](https://twitter.com/rebeccatmoore) | [Kurt Schwehr](https://twitter.com/kurtschwehr) |
+- [Google Earth](https://twitter.com/googleearth)
+- [Google Earth Outreach](https://twitter.com/googleearth)
+- [Tyler Erickson](https://twitter.com/tylerickson)
+- [Rebecca Moore](https://twitter.com/rebeccatmoore)
+- [Kurt Schwehr](https://twitter.com/kurtschwehr)
 
 ### Individuals
 
-- [Cesar Aybar](https://github.com/csaybar) | [Justin Braaten](https://github.com/jdbcode) | [Tirthankar "TC" Chakraborty](https://github.com/TC25) | [Gennadii Donchyts](https://github.com/gena) | [Ujaval Gandhi](https://github.com/spatialthoughts) | [Philipp Gärtner](https://github.com/philippgaertner) | [Kel Markert](https://github.com/KMarkert) | [Keiko Nomura](https://github.com/nkeikon) | [Rodrigo E. Principe](https://github.com/fitoprincipe) | [Samapriya Roy](https://github.com/samapriya) | [Sabrina Szeto](https://github.com/sabrinaszeto) | [Qiusheng Wu](https://github.com/giswqs) |
+- [Cesar Aybar](https://github.com/csaybar)
+- [Justin Braaten](https://github.com/jdbcode)
+- [Tirthankar "TC" Chakraborty](https://github.com/TC25)
+- [Diego Garcia Diaz](https://twitter.com/mopayyo)
+- [Gennadii Donchyts](https://github.com/gena)
+- [Ujaval Gandhi](https://github.com/spatialthoughts)
+- [Philipp Gärtner](https://github.com/philippgaertner)
+- [Kel Markert](https://github.com/KMarkert)
+- [Keiko Nomura](https://github.com/nkeikon)
+- [Rodrigo E. Principe](https://github.com/fitoprincipe)
+- [Samapriya Roy](https://github.com/samapriya)
+- [Sabrina Szeto](https://github.com/sabrinaszeto)
+- [Qiusheng Wu](https://github.com/giswqs)
 
 ## Apps
 
@@ -169,7 +202,7 @@
 
 ### General
 
-- Getting Started with Earth Engine with Sabrina Szeto ([video](https://t.co/AQfGXvGksp?amp=1) | [slides](https://t.co/PM4Rqc604X?amp=1))
+- Getting Started with Earth Engine with Sabrina Szeto ([video](https://t.co/AQfGXvGksp?amp=1) - [slides](https://t.co/PM4Rqc604X?amp=1))
 - Earth Engine Virtual Meetup on May 6, 2020 ([video](https://t.co/6WdQd7m9ZS?amp=1))
 
 ### geemap
@@ -177,7 +210,7 @@
 - [geemap tutorials on YouTube](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3)
 - [geemap tutorials on 哔哩哔哩](https://space.bilibili.com/527404442/channel/detail?cid=132674)
 - [geemap tutorials on 西瓜视频](https://www.ixigua.com/home/676923482842317/)
-- GeoInsider webinar - Cloud computing and interactive mapping with Earth Engine and open-source GIS ([video](https://www.bilibili.com/video/BV1Ep4y1X7tJ) | [slides](https://gishub.org/geoinsider))
+- GeoInsider webinar - Cloud computing and interactive mapping with Earth Engine and open-source GIS ([video](https://www.bilibili.com/video/BV1Ep4y1X7tJ) - [slides](https://gishub.org/geoinsider))
 
 ## Projects
 
@@ -218,43 +251,43 @@
 
 ### Highlights
 
-- Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., Moore, R., 2017. Google Earth Engine: Planetary-scale geospatial analysis for everyone. _Remote Sens. Environ_. 202, 18–27. https://doi.org/10.1016/j.rse.2017.06.031
+- Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., Moore, R., 2017. Google Earth Engine: Planetary-scale geospatial analysis for everyone. _Remote Sens. Environ_. 202, 18–27. <https://doi.org/10.1016/j.rse.2017.06.031>
 
 ### Review
 
-- Tamiminia, H., Salehi, B., Mahdianpari, M., Quackenbush, L., Adeli, S., Brisco, B., 2020. Google Earth Engine for geo-big data applications: A meta-analysis and systematic review. _ISPRS J. Photogramm. Remote Sens._ 164, 152–170. https://doi.org/10.1016/j.isprsjprs.2020.04.001
-- Kumar, L., Mutanga, O., 2018. Google Earth Engine Applications Since Inception: Usage, Trends, and Potential. _Remote Sensing_ 10, 1509. https://doi.org/10.3390/rs10101509
+- Tamiminia, H., Salehi, B., Mahdianpari, M., Quackenbush, L., Adeli, S., Brisco, B., 2020. Google Earth Engine for geo-big data applications: A meta-analysis and systematic review. _ISPRS J. Photogramm. Remote Sens._ 164, 152–170. <https://doi.org/10.1016/j.isprsjprs.2020.04.001>
+- Kumar, L., Mutanga, O., 2018. Google Earth Engine Applications Since Inception: Usage, Trends, and Potential. _Remote Sensing_ 10, 1509. <https://doi.org/10.3390/rs10101509>
 
 ### Hydrology
 
-- Pekel, J.-F., Cottam, A., Gorelick, N., Belward, A.S., 2016. High-resolution mapping of global surface water and its long-term changes. _Nature_ 540, 418–422. https://doi.org/10.1038/nature20584
-- Yamazaki, D., Trigg, M.A., 2016. Hydrology: The dynamics of Earth’s surface water. _Nature_. https://doi.org/10.1038/nature21100
-- Donchyts, G., Baart, F., Winsemius, H., Gorelick, N., Kwadijk, J., van de Giesen, N., 2016. Earth’s surface water change over the past 30 years. _Nat. Clim. Chang_. 6, 810. https://doi.org/10.1038/nclimate3111
-- Wu, Q., Lane, C.R., Li, X., Zhao, K., Zhou, Y., Clinton, N., DeVries, B., Golden, H.E., Lang, M.W., 2019. Integrating LiDAR data and multi-temporal aerial imagery to map wetland inundation dynamics using Google Earth Engine. _Remote Sens. Environ_. 228, 1–13. https://doi.org/10.1016/j.rse.2019.04.015
+- Pekel, J.-F., Cottam, A., Gorelick, N., Belward, A.S., 2016. High-resolution mapping of global surface water and its long-term changes. _Nature_ 540, 418–422. <https://doi.org/10.1038/nature20584>
+- Yamazaki, D., Trigg, M.A., 2016. Hydrology: The dynamics of Earth’s surface water. _Nature_. <https://doi.org/10.1038/nature21100>
+- Donchyts, G., Baart, F., Winsemius, H., Gorelick, N., Kwadijk, J., van de Giesen, N., 2016. Earth’s surface water change over the past 30 years. _Nat. Clim. Chang_. 6, 810. <https://doi.org/10.1038/nclimate3111>
+- Wu, Q., Lane, C.R., Li, X., Zhao, K., Zhou, Y., Clinton, N., DeVries, B., Golden, H.E., Lang, M.W., 2019. Integrating LiDAR data and multi-temporal aerial imagery to map wetland inundation dynamics using Google Earth Engine. _Remote Sens. Environ_. 228, 1–13. <https://doi.org/10.1016/j.rse.2019.04.015>
 
 ### Urban
 
-- Liu, X., Huang, Y., Xu, X., Li, X., Li, X., Ciais, P., Lin, P., Gong, K., Ziegler, A.D., Chen, A., Gong, P., Chen, J., Hu, G., Chen, Y., Wang, S., Wu, Q., Huang, K., Estes, L., Zeng, Z., 2020. High-spatiotemporal-resolution mapping of global urban change from 1985 to 2015. _Nature Sustainability_ 1–7. https://doi.org/10.1038/s41893-020-0521-x
-- Li, X., Zhou, Y., Zhu, Z., Cao, W., 2020. A national dataset of 30 m annual urban extent dynamics (1985–2015) in the conterminous United States. _Earth System Science Data_ 12, 357. https://doi.org/10.5194/essd-12-357-2020
+- Liu, X., Huang, Y., Xu, X., Li, X., Li, X., Ciais, P., Lin, P., Gong, K., Ziegler, A.D., Chen, A., Gong, P., Chen, J., Hu, G., Chen, Y., Wang, S., Wu, Q., Huang, K., Estes, L., Zeng, Z., 2020. High-spatiotemporal-resolution mapping of global urban change from 1985 to 2015. _Nature Sustainability_ 1–7. <https://doi.org/10.1038/s41893-020-0521-x>
+- Li, X., Zhou, Y., Zhu, Z., Cao, W., 2020. A national dataset of 30 m annual urban extent dynamics (1985–2015) in the conterminous United States. _Earth System Science Data_ 12, 357. <https://doi.org/10.5194/essd-12-357-2020>
 
 ### Vegetation
 
-- Li, X., Zhou, Y., Meng, L., Asrar, G.R., Lu, C., Wu, Q., 2019. A dataset of 30 m annual vegetation phenology indicators (1985–2015) in urban areas of the conterminous United States. _Earth System Science Data_. 11(2), 881-894. https://doi.org/10.5194/essd-11-881-2019
+- Li, X., Zhou, Y., Meng, L., Asrar, G.R., Lu, C., Wu, Q., 2019. A dataset of 30 m annual vegetation phenology indicators (1985–2015) in urban areas of the conterminous United States. _Earth System Science Data_. 11(2), 881-894. <https://doi.org/10.5194/essd-11-881-2019>
 
 ### Agriculture
 
-- Xiong, J., Thenkabail, P.S., Tilton, J.C., Gumma, M.K., Teluguntla, P., Oliphant, A., Congalton, R.G., Yadav, K., Gorelick, N., 2017. Nominal 30-m Cropland Extent Map of Continental Africa by Integrating Pixel-Based and Object-Based Algorithms Using Sentinel-2 and Landsat-8 Data on Google Earth Engine. _Remote Sensing_ 9, 1065. https://doi.org/10.3390/rs9101065
-- Xiong, J., Thenkabail, P.S., Gumma, M.K., Teluguntla, P., Poehnelt, J., Congalton, R.G., Yadav, K., Thau, D., 2017. Automated cropland mapping of continental Africa using Google Earth Engine cloud computing. _ISPRS J. Photogramm. Remote Sens_. 126, 225–244. https://doi.org/10.1016/j.isprsjprs.2017.01.019
+- Xiong, J., Thenkabail, P.S., Tilton, J.C., Gumma, M.K., Teluguntla, P., Oliphant, A., Congalton, R.G., Yadav, K., Gorelick, N., 2017. Nominal 30-m Cropland Extent Map of Continental Africa by Integrating Pixel-Based and Object-Based Algorithms Using Sentinel-2 and Landsat-8 Data on Google Earth Engine. _Remote Sensing_ 9, 1065. <https://doi.org/10.3390/rs9101065>
+- Xiong, J., Thenkabail, P.S., Gumma, M.K., Teluguntla, P., Poehnelt, J., Congalton, R.G., Yadav, K., Thau, D., 2017. Automated cropland mapping of continental Africa using Google Earth Engine cloud computing. _ISPRS J. Photogramm. Remote Sens_. 126, 225–244. <https://doi.org/10.1016/j.isprsjprs.2017.01.019>
 
 ### Land Cover
 
-- Liu, H., Gong, P., Wang, J., Clinton, N., Bai, Y., Liang, S., 2020. Annual Dynamics of Global Land Cover and its Long-term Changes from 1982 to 2015. _Earth Syst. Sci. Data_. 12, 1217–1243. https://doi.org/10.5194/essd-12-1217-2020
-- Carrasco, L., O’Neil, A.W., Morton, R.D., Rowland, C.S., 2019. Evaluating Combinations of Temporally Aggregated Sentinel-1, Sentinel-2 and Landsat 8 for Land Cover Mapping with Google Earth Engine. _Remote Sensing_ 11, 288. https://doi.org/10.3390/rs11030288
+- Liu, H., Gong, P., Wang, J., Clinton, N., Bai, Y., Liang, S., 2020. Annual Dynamics of Global Land Cover and its Long-term Changes from 1982 to 2015. _Earth Syst. Sci. Data_. 12, 1217–1243. <https://doi.org/10.5194/essd-12-1217-2020>
+- Carrasco, L., O’Neil, A.W., Morton, R.D., Rowland, C.S., 2019. Evaluating Combinations of Temporally Aggregated Sentinel-1, Sentinel-2 and Landsat 8 for Land Cover Mapping with Google Earth Engine. _Remote Sensing_ 11, 288. <https://doi.org/10.3390/rs11030288>
 
 ### Disaster Management
 
-- DeVries, B., Huang, C., Armston, J., Huang, W., Jones, J.W., Lang, M.W., 2020. Rapid and robust monitoring of flood events using Sentinel-1 and Landsat data on the Google Earth Engine. _Remote Sens. Environ_. 240, 111664. https://doi.org/10.1016/j.rse.2020.111664
-- Liu, C.-C., Shieh, M.-C., Ke, M.-S., Wang, K.-H., 2018. Flood Prevention and Emergency Response System Powered by Google Earth Engine. _Remote Sensing_ 10, 1283. https://doi.org/10.3390/rs10081283
+- DeVries, B., Huang, C., Armston, J., Huang, W., Jones, J.W., Lang, M.W., 2020. Rapid and robust monitoring of flood events using Sentinel-1 and Landsat data on the Google Earth Engine. _Remote Sens. Environ_. 240, 111664. <https://doi.org/10.1016/j.rse.2020.111664>
+- Liu, C.-C., Shieh, M.-C., Ke, M.-S., Wang, K.-H., 2018. Flood Prevention and Emergency Response System Powered by Google Earth Engine. _Remote Sensing_ 10, 1283. <https://doi.org/10.3390/rs10081283>
 
 ## Contributing
 
