@@ -133,21 +133,19 @@
 
 ### Individuals
 
-- [Cesar Aybar](https://twitter.com/csaybar)
-- [Justin Braaten](https://twitter.com/jstnbraaten)
-- [Tirthankar "TC" Chakraborty](https://twitter.com/Chalkemort)
-- [Morgan Crowley](https://twitter.com/morganahcrowley)
-- [Diego Garcia Diaz](https://github.com/Digdgeo)
-- [Gennadii Donchyts](https://twitter.com/gena_d)
-- [Ujaval Gandhi](https://twitter.com/spatialthoughts)
-- [Philipp Gärtner](https://twitter.com/gartn001)
-- [Belize GEO](https://twitter.com/BZgeo)
-- [Kel Markert](https://twitter.com/KelMarkert)
-- [Keiko Nomura](https://twitter.com/Keiko_geo)
-- [Samapriya Roy](https://twitter.com/samapriyaroy)
-- [Sabrina Szeto](https://twitter.com/SabrinaSzeto)
-- [Dave Thau](https://twitter.com/davethau)
-- [Qiusheng Wu](https://twitter.com/giswqs)
+- [Cesar Aybar](https://github.com/csaybar)
+- [Justin Braaten](https://github.com/jdbcode)
+- [Tirthankar "TC" Chakraborty](https://github.com/TC25)
+- [Diego Garcia Diaz](https://twitter.com/mopayyo)
+- [Gennadii Donchyts](https://github.com/gena)
+- [Ujaval Gandhi](https://github.com/spatialthoughts)
+- [Philipp Gärtner](https://github.com/philippgaertner)
+- [Kel Markert](https://github.com/KMarkert)
+- [Keiko Nomura](https://github.com/nkeikon)
+- [Rodrigo E. Principe](https://github.com/fitoprincipe)
+- [Samapriya Roy](https://github.com/samapriya)
+- [Sabrina Szeto](https://github.com/sabrinaszeto)
+- [Qiusheng Wu](https://github.com/giswqs)
 
 ## Twitter
 
@@ -166,19 +164,21 @@
 
 ### Individuals
 
-- [Cesar Aybar](https://github.com/csaybar)
-- [Justin Braaten](https://github.com/jdbcode)
-- [Tirthankar "TC" Chakraborty](https://github.com/TC25)
-- [Diego Garcia Diaz](https://twitter.com/mopayyo)
-- [Gennadii Donchyts](https://github.com/gena)
-- [Ujaval Gandhi](https://github.com/spatialthoughts)
-- [Philipp Gärtner](https://github.com/philippgaertner)
-- [Kel Markert](https://github.com/KMarkert)
-- [Keiko Nomura](https://github.com/nkeikon)
-- [Rodrigo E. Principe](https://github.com/fitoprincipe)
-- [Samapriya Roy](https://github.com/samapriya)
-- [Sabrina Szeto](https://github.com/sabrinaszeto)
-- [Qiusheng Wu](https://github.com/giswqs)
+- [Cesar Aybar](https://twitter.com/csaybar)
+- [Justin Braaten](https://twitter.com/jstnbraaten)
+- [Tirthankar "TC" Chakraborty](https://twitter.com/Chalkemort)
+- [Morgan Crowley](https://twitter.com/morganahcrowley)
+- [Diego Garcia Diaz](https://github.com/Digdgeo)
+- [Gennadii Donchyts](https://twitter.com/gena_d)
+- [Ujaval Gandhi](https://twitter.com/spatialthoughts)
+- [Philipp Gärtner](https://twitter.com/gartn001)
+- [Belize GEO](https://twitter.com/BZgeo)
+- [Kel Markert](https://twitter.com/KelMarkert)
+- [Keiko Nomura](https://twitter.com/Keiko_geo)
+- [Samapriya Roy](https://twitter.com/samapriyaroy)
+- [Sabrina Szeto](https://twitter.com/SabrinaSzeto)
+- [Dave Thau](https://twitter.com/davethau)
+- [Qiusheng Wu](https://twitter.com/giswqs)
 
 ## Apps
 
