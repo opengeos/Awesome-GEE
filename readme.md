@@ -184,6 +184,7 @@
 
 - [Earth Engine Apps](https://www.earthengine.app/) - Google
 - [An image gallery of almost all publicly available Google Earth Engine Apps](https://philippgaertner.github.io/2020/03/ee-apps/) - Philipp Gärtner
+- [A searchable list of all publicly available Google Earth Engine Apps](https://datawrapper.dwcdn.net/4cHkZ/1/)
 
 ## Presentations
 
