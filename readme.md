@@ -119,6 +119,11 @@
 
 - [rgee-examples](https://csaybar.github.io/rgee-examples/) - A collection of 250+ examples for using Google Earth Engine with R.
 
+### Tutorials
+
+- [rgee tutorial #1: Creating global land surface temperature maps](https://csaybar.github.io/blog/2020/06/10/rgee_01_worldmap/)
+- [rgee tutorial #2: Satellite image processing](https://csaybar.github.io/blog/2020/06/15/rgee_02_io/)
+
 ## QGIS
 
 - Earth Engine QGIS Plugin ([Website](https://gee-community.github.io/qgis-earthengine-plugin/), [GitHub](https://github.com/gee-community/qgis-earthengine-plugin)) - Integrates Google Earth Engine and QGIS using Python API.
