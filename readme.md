@@ -83,6 +83,7 @@
 - [jdbcode/Snazzy-EE-TS-GIF](https://github.com/jdbcode/Snazzy-EE-TS-GIF) - Apps for creating Landsat time series animations.
 - [fitoprincipe/geetools-code-editor](https://github.com/fitoprincipe/geetools-code-editor) - A set of tools to use in Google Earth Engine JavaScript Code Editor.
 - [Fernerkundung/EarthEngine_scripts](https://github.com/Fernerkundung/EarthEngine_scripts) - Scripts and snippets for Google Earth Engine.
+- [Google Earth Engine Toolbox - GEET](https://github.com/sacridini/GEET) - Google Earth Engine Toolbox - Library to write small EE apps or big/complex apps with a lot less code.
 
 ## Python API
 
