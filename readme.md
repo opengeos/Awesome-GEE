@@ -292,6 +292,7 @@
 
 - Liu, H., Gong, P., Wang, J., Clinton, N., Bai, Y., Liang, S., 2020. Annual Dynamics of Global Land Cover and its Long-term Changes from 1982 to 2015. _Earth Syst. Sci. Data_. 12, 1217–1243. <https://doi.org/10.5194/essd-12-1217-2020>
 - Carrasco, L., O’Neil, A.W., Morton, R.D., Rowland, C.S., 2019. Evaluating Combinations of Temporally Aggregated Sentinel-1, Sentinel-2 and Landsat 8 for Land Cover Mapping with Google Earth Engine. _Remote Sensing_ 11, 288. <https://doi.org/10.3390/rs11030288>
+- Hansen, M.C., Potapov, P.V., Moore, R., Hancher, M., Turubanova, S.A., Tyukavina, A., Thau, D., Stehman, S.V., Goetz, S.J., Loveland, T.R., Kommareddy, A., Egorov, A., Chini, L., Justice, C.O., Townshend, J.R.G., 2013. High-resolution global maps of 21st-century forest cover change. Science 342, 850–853. <https://doi.org/10.1126/science.1244693>
 
 ### Disaster Management
 
