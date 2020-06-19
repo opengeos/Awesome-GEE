@@ -160,6 +160,7 @@
 
 - [Earth Engine Bot](https://twitter.com/EarthEngineBot)
 - [Geospatial Python](https://twitter.com/geospatial_py)
+- [Synthetic Aperture Random](https://twitter.com/ApertureRandom)
 
 ### Google affiliated
 
