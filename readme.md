@@ -262,6 +262,13 @@
 
 - Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., Moore, R., 2017. Google Earth Engine: Planetary-scale geospatial analysis for everyone. _Remote Sens. Environ_. 202, 18–27. <https://doi.org/10.1016/j.rse.2017.06.031>
 
+### Journal Special Issues
+
+- _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, Cloud Computing in Google Earth Engine for Remote Sensing ([Call for Papers](https://www.grss-ieee.org/wp-content/uploads/2019/12/Call_for_Paper_GEE.pdf))
+- _Remote Sensing_, Google Earth Engine and Cloud Computing Platforms: Methods and Applications in Big Geo Data Science ([Call for Papers](https://www.mdpi.com/journal/remotesensing/special_issues/GEE_Methods_Applications), [Published Papers](https://www.mdpi.com/journal/remotesensing/special_issues/GEE_Methods_Applications))
+- _Remote Sensning_, Google Earth Engine Applications ([Call for Papers](https://www.mdpi.com/journal/remotesensing/special_issues/GEE), [Published Papers](https://www.mdpi.com/journal/remotesensing/special_issues/GEE))
+- _Remote Sensing of Environment_, Remote Sensing of Land Change Science with Google Earth Engine ([Call for Papers](https://www.journals.elsevier.com/remote-sensing-of-environment/call-for-papers/-special-issue-remote-sensing-of-land-change-science-with-go), [Published Papers](https://www.sciencedirect.com/journal/remote-sensing-of-environment/special-issue/104TX08KZZW))
+
 ### Review
 
 - Kumar, L., Mutanga, O., 2018. Google Earth Engine Applications Since Inception: Usage, Trends, and Potential. _Remote Sensing_ 10, 1509. <https://doi.org/10.3390/rs10101509>
@@ -277,22 +284,37 @@
 ### Urban
 
 - Li, X., Zhou, Y., Zhu, Z., Cao, W., 2020. A national dataset of 30 m annual urban extent dynamics (1985–2015) in the conterminous United States. _Earth System Science Data_ 12, 357. <https://doi.org/10.5194/essd-12-357-2020>
+- Liu, X., Hu, G., Chen, Y., Li, X., Xu, X., Li, S., Pei, F., Wang, S., 2018. High-resolution multi-temporal mapping of global urban land using Landsat images based on the Google Earth Engine Platform. _Remote Sens. Environ_. 209, 227–239. <https://doi.org/10.1016/j.rse.2018.02.055>
 - Liu, X., Huang, Y., Xu, X., Li, X., Li, X., Ciais, P., Lin, P., Gong, K., Ziegler, A.D., Chen, A., Gong, P., Chen, J., Hu, G., Chen, Y., Wang, S., Wu, Q., Huang, K., Estes, L., Zeng, Z., 2020. High-spatiotemporal-resolution mapping of global urban change from 1985 to 2015. _Nature Sustainability_ 1–7. <https://doi.org/10.1038/s41893-020-0521-x>
-- Weiss, D.J., Nelson, A., Gibson, H.S., Temperley, W., Peedell, S., Lieber, A., Hancher, M., Poyart, E., Belchior, S., Fullman, N., Mappin, B., Dalrymple, U., Rozier, J., Lucas, T.C.D., Howes, R.E., Tusting, L.S., Kang, S.Y., Cameron, E., Bisanzio, D., Battle, K.E., Bhatt, S., Gething, P.W., 2018. A global map of travel time to cities to assess inequalities in accessibility in 2015. _Nature_ 553, 333–336. https://doi.org/10.1038/nature25181
+- Patel, N.N., Angiuli, E., Gamba, P., Gaughan, A., Lisini, G., Stevens, F.R., Tatem, A.J., Trianni, G., 2015. Multitemporal settlement and population mapping from Landsat using Google Earth Engine. _Int. J. Appl. Earth Obs. Geoinf_. 35, 199–208. <https://doi.org/10.1016/j.jag.2014.09.005>
+- Weiss, D.J., Nelson, A., Gibson, H.S., Temperley, W., Peedell, S., Lieber, A., Hancher, M., Poyart, E., Belchior, S., Fullman, N., Mappin, B., Dalrymple, U., Rozier, J., Lucas, T.C.D., Howes, R.E., Tusting, L.S., Kang, S.Y., Cameron, E., Bisanzio, D., Battle, K.E., Bhatt, S., Gething, P.W., 2018. A global map of travel time to cities to assess inequalities in accessibility in 2015. _Nature_ 553, 333–336. <https://doi.org/10.1038/nature25181>
 
 ### Vegetation
 
 - Li, X., Zhou, Y., Meng, L., Asrar, G.R., Lu, C., Wu, Q., 2019. A dataset of 30 m annual vegetation phenology indicators (1985–2015) in urban areas of the conterminous United States. _Earth System Science Data_. 11(2), 881-894. <https://doi.org/10.5194/essd-11-881-2019>
+- Robinson, N.P., Allred, B.W., Jones, M.O., Moreno, A., Kimball, J.S., Naugle, D.E., Erickson, T.A., Richardson, A.D., 2017. A Dynamic Landsat Derived Normalized Difference Vegetation Index (NDVI) Product for the Conterminous United States. _Remote Sensing_ 9, 863. <https://doi.org/10.3390/rs9080863>
+- Xie, Z., Phinn, S.R., Game, E.T., Pannell, D.J., Hobbs, R.J., Briggs, P.R., McDonald-Madden, E., 2019. Using Landsat observations (1988–2017) and Google Earth Engine to detect vegetation cover changes in rangelands - A first step towards identifying degraded lands for conservation. _Remote Sens. Environ_. 232, 111317. <https://doi.org/10.1016/j.rse.2019.111317>
 
 ### Agriculture
 
+- Dong, J., Xiao, X., Menarguez, M.A., Zhang, G., Qin, Y., Thau, D., Biradar, C., Moore, B., 3rd, 2016. Mapping paddy rice planting area in northeastern Asia with Landsat 8 images, phenology-based algorithm and Google Earth Engine. _Remote Sens. Environ_. 185, 142–154. <https://doi.org/10.1016/j.rse.2016.02.016>
 - Xiong, J., Thenkabail, P.S., Gumma, M.K., Teluguntla, P., Poehnelt, J., Congalton, R.G., Yadav, K., Thau, D., 2017. Automated cropland mapping of continental Africa using Google Earth Engine cloud computing. _ISPRS J. Photogramm. Remote Sens_. 126, 225–244. <https://doi.org/10.1016/j.isprsjprs.2017.01.019>
 - Xiong, J., Thenkabail, P.S., Tilton, J.C., Gumma, M.K., Teluguntla, P., Oliphant, A., Congalton, R.G., Yadav, K., Gorelick, N., 2017. Nominal 30-m Cropland Extent Map of Continental Africa by Integrating Pixel-Based and Object-Based Algorithms Using Sentinel-2 and Landsat-8 Data on Google Earth Engine. _Remote Sensing_ 9, 1065. <https://doi.org/10.3390/rs9101065>
+
+### Wetlands
+
+- Amani, M., Mahdavi, S., Afshar, M., Brisco, B., Huang, W., Mohammad Javad Mirzadeh, S., White, L., Banks, S., Montgomery, J., Hopkinson, C., 2019. Canadian Wetland Inventory using Google Earth Engine: The First Map and Preliminary Results. _Remote Sensing_ 11, 842. <https://doi.org/10.3390/rs11070842>
+- Chen, B., Xiao, X., Li, X., Pan, L., Doughty, R., Ma, J., Dong, J., Qin, Y., Zhao, B., Wu, Z., Sun, R., Lan, G., Xie, G., Clinton, N., Giri, C., 2017. A mangrove forest map of China in 2015: Analysis of time series Landsat 7/8 and Sentinel-1A imagery in Google Earth Engine cloud computing platform. _ISPRS J. Photogramm. Remote Sens_. 131, 104–120. <https://doi.org/10.1016/j.isprsjprs.2017.07.011>
+- Hird, J.N., DeLancey, E.R., McDermid, G.J., Kariyeva, J., 2017. Google Earth Engine, Open-Access Satellite Data, and Machine Learning in Support of Large-Area Probabilistic Wetland Mapping. _Remote Sensing_ 9, 1315. <https://doi.org/10.3390/rs9121315>
+- Mahdianpari, M., Salehi, B., Mohammadimanesh, F., Homayouni, S., Gill, E., 2018. The First Wetland Inventory Map of Newfoundland at a Spatial Resolution of 10 m Using Sentinel-1 and Sentinel-2 Data on the Google Earth Engine Cloud Computing Platform. _Remote Sensing_ 11, 43. <https://doi.org/10.3390/rs11010043>
+- Wang, X., Xiao, X., Zou, Z., Chen, B., Ma, J., Dong, J., Doughty, R.B., Zhong, Q., Qin, Y., Dai, S., Li, X., Zhao, B., Li, B., 2020. Tracking annual changes of coastal tidal flats in China during 1986–2016 through analyses of Landsat images with Google Earth Engine. _Remote Sens. Environ_. 238, 110987. <https://doi.org/10.1016/j.rse.2018.11.030>
+- Wu, Q., Lane, C.R., Li, X., Zhao, K., Zhou, Y., Clinton, N., DeVries, B., Golden, H.E., Lang, M.W., 2019. Integrating LiDAR data and multi-temporal aerial imagery to map wetland inundation dynamics using Google Earth Engine. _Remote Sens. Environ_. 228, 1–13. <https://doi.org/10.1016/j.rse.2019.04.015>
 
 ### Land Cover
 
 - Carrasco, L., O’Neil, A.W., Morton, R.D., Rowland, C.S., 2019. Evaluating Combinations of Temporally Aggregated Sentinel-1, Sentinel-2 and Landsat 8 for Land Cover Mapping with Google Earth Engine. _Remote Sensing_ 11, 288. <https://doi.org/10.3390/rs11030288>
 - Hansen, M.C., Potapov, P.V., Moore, R., Hancher, M., Turubanova, S.A., Tyukavina, A., Thau, D., Stehman, S.V., Goetz, S.J., Loveland, T.R., Kommareddy, A., Egorov, A., Chini, L., Justice, C.O., Townshend, J.R.G., 2013. High-resolution global maps of 21st-century forest cover change. _Science_ 342, 850–853. <https://doi.org/10.1126/science.1244693>
+- Huang, H., Chen, Y., Clinton, N., Wang, J., Wang, X., Liu, C., Gong, P., Yang, J., Bai, Y., Zheng, Y., Zhu, Z., 2017. Mapping major land cover dynamics in Beijing using all Landsat images in Google Earth Engine. _Remote Sens. Environ_. 202, 166–176. <https://doi.org/10.1016/j.rse.2017.02.021>
 - Liu, H., Gong, P., Wang, J., Clinton, N., Bai, Y., Liang, S., 2020. Annual Dynamics of Global Land Cover and its Long-term Changes from 1982 to 2015. _Earth Syst. Sci. Data_. 12, 1217–1243. <https://doi.org/10.5194/essd-12-1217-2020>
 
 ### Disaster Management
