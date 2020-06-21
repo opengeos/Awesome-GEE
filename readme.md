@@ -59,6 +59,13 @@
 
 - [JavaScript Code Editor](https://code.earthengine.google.com/) - The official Google Earth Engine JavaScript Code Editor.
 
+### Repositories
+
+- [jdbcode/Snazzy-EE-TS-GIF](https://github.com/jdbcode/Snazzy-EE-TS-GIF) - Apps for creating Landsat time series animations.
+- [fitoprincipe/geetools-code-editor](https://github.com/fitoprincipe/geetools-code-editor) - A set of tools to use in Google Earth Engine JavaScript Code Editor.
+- [Fernerkundung/EarthEngine_scripts](https://github.com/Fernerkundung/EarthEngine_scripts) - Scripts and snippets for Google Earth Engine.
+- [Google Earth Engine Toolbox (GEET)](https://github.com/sacridini/GEET) - Library to write small EE apps or big/complex apps with a lot less code.
+
 ### Tutorials
 
 - [Introduction to JavaScript for Earth Engine](https://developers.google.com/earth-engine/tutorial_js_01)
@@ -77,13 +84,8 @@
 - [MODIS NDVI Times Series Animation](https://developers.google.com/earth-engine/tutorials/community/modis-ndvi-time-series-animation)
 - [Non-parametric trend analysis](https://developers.google.com/earth-engine/tutorials/community/nonparametric-trends)
 - [GEE 开发 on 知乎 by 无形的风](https://zhuanlan.zhihu.com/c_123993183)
-
-### Repositories
-
-- [jdbcode/Snazzy-EE-TS-GIF](https://github.com/jdbcode/Snazzy-EE-TS-GIF) - Apps for creating Landsat time series animations.
-- [fitoprincipe/geetools-code-editor](https://github.com/fitoprincipe/geetools-code-editor) - A set of tools to use in Google Earth Engine JavaScript Code Editor.
-- [Fernerkundung/EarthEngine_scripts](https://github.com/Fernerkundung/EarthEngine_scripts) - Scripts and snippets for Google Earth Engine.
-- [Google Earth Engine Toolbox (GEET)](https://github.com/sacridini/GEET) - Library to write small EE apps or big/complex apps with a lot less code.
+- [Calculating Area in Google Earth Engine](https://spatialthoughts.com/2020/06/19/calculating-area-gee/)
+- [Extracting Time Series using Google Earth Engine](https://spatialthoughts.com/2020/04/13/extracting-time-series-ee/)
 
 ## Python API
 
@@ -127,8 +129,17 @@
 
 ## QGIS
 
+### Packages
+
 - Earth Engine QGIS Plugin ([Website](https://gee-community.github.io/qgis-earthengine-plugin/), [GitHub](https://github.com/gee-community/qgis-earthengine-plugin)) - Integrates Google Earth Engine and QGIS using Python API.
+
+### Repositories
+
 - [qgis-earthengine-examples](https://github.com/giswqs/qgis-earthengine-examples) - A collection of 300+ Python examples for using Google Earth Engine in QGIS.
+
+### Tutorials
+
+- [Creating Maps with Google Earth Engine](https://spatialthoughts.com/2020/04/04/ndvi-time-series-gee-qgis/)
 
 ## GitHub Developers
 
