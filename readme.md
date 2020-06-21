@@ -36,6 +36,7 @@
 - [Developer Forum](https://developers.google.com/earth-engine)
 - [Issue Tracker](https://issuetracker.google.com/issues?q=componentid:184426&p=1)
 - [Earth Engine API on GitHub](https://github.com/google/earthengine-api)
+- [Google Earth Engine Community Tutorials](https://github.com/google/earthengine-community)
 
 ## Get Started
 
@@ -68,6 +69,7 @@
 
 ### Tutorials
 
+- [Introduction to Google Earth Engine](https://www.google.com/earth/outreach/learn/introduction-to-google-earth-engine/)
 - [Introduction to JavaScript for Earth Engine](https://developers.google.com/earth-engine/tutorial_js_01)
 - [Introduction to the Earth Engine JavaScript API](https://developers.google.com/earth-engine/tutorial_api_01)
 - [Global Forest Change Analysis](https://developers.google.com/earth-engine/tutorial_forest_01)
@@ -86,6 +88,12 @@
 - [GEE 开发 on 知乎 by 无形的风](https://zhuanlan.zhihu.com/c_123993183)
 - [Calculating Area in Google Earth Engine](https://spatialthoughts.com/2020/06/19/calculating-area-gee/)
 - [Extracting Time Series using Google Earth Engine](https://spatialthoughts.com/2020/04/13/extracting-time-series-ee/)
+- [Getting Git Right on Google Earth Engine](https://medium.com/@samapriyaroy/getting-git-right-on-google-earth-engine-e853f6551889)
+- [AmericaView - Google Earth Engine (GEE) tutorials](https://americaview.org/program-areas/education/google-earth-engine-tutorials/)
+- [Earth Lab - Introduction to the Google Earth Engine code editor](https://www.earthdatascience.org/tutorials/intro-google-earth-engine-ide/)
+- [Coding Club - Intro to the Google Earth Engine](https://ourcodingclub.github.io/tutorials/earth-engine/)
+- [Global Snow Observatory - Google Earth Engine Tutorials](https://sites.google.com/site/globalsnowobservatory/home/Presentations-and-Tutorials)
+- [GEARS - Getting started with Google Earth Engine](https://www.geospatialecology.com/intro_rs_lab1/)
 
 ## Python API
 
@@ -110,6 +118,17 @@
 - [earthengine-py-examples](https://github.com/giswqs/earthengine-py-examples) - A collection of 300+ examples for using Earth Engine and the geemap Python package.
 - [ee-tensorflow-notebooks](https://github.com/gee-community/ee-tensorflow-notebooks) - Repository to place example notebooks for Deep Learning applications with TensorFlow and Earth Engine.
 - [CoastSat](https://github.com/kvos/CoastSat) - Global shoreline mapping tool from satellite imagery.
+- [Google-Earth-Engine-Python-Examples](https://github.com/renelikestacos/Google-Earth-Engine-Python-Examples)
+- [csaybar/EEwPython](https://github.com/csaybar/EEwPython)
+
+### Tutorials
+
+- [geemap and Earth Engine Python API tutorials](https://github.com/giswqs/geemap/tree/master/examples)
+- [A Quick Introduction to Google Earth Engine](https://towardsdatascience.com/a-quick-introduction-to-google-earth-engine-c6a608c5febe)
+- [Google Earth Engine (GEE) and Image Analysis](https://climada-python.readthedocs.io/en/stable/tutorial/climada_util_earth_engine.html)
+- [Earth Engine Python API Colab Setup](https://colab.sandbox.google.com/github/google/earthengine-api/blob/master/python/examples/ipynb/ee-api-colab-setup.ipynb)
+- [Earth Engine TensorFlow demonstration notebook](https://colab.sandbox.google.com/github/google/earthengine-api/blob/master/python/examples/ipynb/TF_demo1_keras.ipynb)
+- [Earth Lab - Calculating the area of polygons in Google Earth Engine](https://www.earthdatascience.org/tutorials/basic-polygon-operations-google-earth-engine/)
 
 ## R
 
@@ -147,6 +166,7 @@
 
 - [earthengine-api](https://github.com/google/earthengine-api)
 - [Google Earth Engine Community](https://github.com/gee-community)
+- [Google Earth Engine Community Tutorials](https://github.com/google/earthengine-community)
 
 ### Individuals
 
@@ -212,6 +232,10 @@
 - [Using the geemap Python package for interactive mapping with Earth Engine](https://www.researchgate.net/publication/341326008_Using_the_geemap_Python_package_for_interactive_mapping_with_Earth_Engine) - Earth Engine Virtual Meetup on May 8, 2020
 - [Cloud computing and interactive mapping with Earth Engine and open-source GIS](https://www.researchgate.net/publication/341722639_Cloud_computing_and_interactive_mapping_with_Earth_Engine_and_open-source_GIS) - GeoInsider webinar on May 28, 2020
 - [Mapping Wetland Inundation Dynamics using Google Earth Engine](https://www.researchgate.net/publication/342064888_Mapping_Wetland_Inundation_Dynamics_using_Google_Earth_Engine) - Machine learning and data fusion workshop on June 10, 2020
+
+### General
+
+- [SERVIR Global - Introduction to Google Earth Engine](https://servirglobal.net/Portals/0/Documents/Articles/ChangeDetectionTraining/Module2_Intro_Google_Earth_Engine_presentation.pdf)
 
 ## Videos
 
