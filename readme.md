@@ -66,6 +66,9 @@
 - [fitoprincipe/geetools-code-editor](https://github.com/fitoprincipe/geetools-code-editor) - A set of tools to use in Google Earth Engine JavaScript Code Editor.
 - [Fernerkundung/EarthEngine_scripts](https://github.com/Fernerkundung/EarthEngine_scripts) - Scripts and snippets for Google Earth Engine.
 - [Google Earth Engine Toolbox (GEET)](https://github.com/sacridini/GEET) - Library to write small EE apps or big/complex apps with a lot less code.
+- [LandTrendr](https://code.earthengine.google.com/?accept_repo=users/emaprlab/public) -  Spectral-temporal segmentation algorithm.
+- [zecojls/tagee](https://github.com/zecojls/tagee) - Terrain Analysis in Google Earth Engine (TAGEE).
+
 
 ### Tutorials
 
@@ -88,6 +91,7 @@
 - [GEE 开发 on 知乎 by 无形的风](https://zhuanlan.zhihu.com/c_123993183)
 - [Calculating Area in Google Earth Engine](https://spatialthoughts.com/2020/06/19/calculating-area-gee/)
 - [Extracting Time Series using Google Earth Engine](https://spatialthoughts.com/2020/04/13/extracting-time-series-ee/)
+- [Histogram Matching in Google Earth Engine](https://spatialthoughts.com/2020/07/14/histogram-matching-gee/)
 - [Getting Git Right on Google Earth Engine](https://medium.com/@samapriyaroy/getting-git-right-on-google-earth-engine-e853f6551889)
 - [AmericaView - Google Earth Engine (GEE) tutorials](https://americaview.org/program-areas/education/google-earth-engine-tutorials/)
 - [Earth Lab - Introduction to the Google Earth Engine code editor](https://www.earthdatascience.org/tutorials/intro-google-earth-engine-ide/)
@@ -255,6 +259,8 @@
 - [geemap tutorials on 哔哩哔哩](https://space.bilibili.com/527404442/channel/detail?cid=132674)
 - [geemap tutorials on 西瓜视频](https://www.ixigua.com/home/676923482842317/)
 - GeoInsider webinar - Cloud computing and interactive mapping with Earth Engine and open-source GIS ([video](https://www.bilibili.com/video/BV1Ep4y1X7tJ) - [slides](https://gishub.org/geoinsider))
+- GeoInsider webinar 2 - Using Google Earth Engine for large-scale geospatial analysis: A case study of automated surface water mapping ([video](https://www.bilibili.com/video/BV15z411v7XE) | [slides](https://docs.google.com/presentation/d/1gkT93KCHNdQmL662FdjMjv1QD8fU2DMl0rIxxFSPEFE))
+
 
 ## Projects
 
