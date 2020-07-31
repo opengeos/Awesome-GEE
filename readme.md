@@ -98,6 +98,7 @@
 - [Coding Club - Intro to the Google Earth Engine](https://ourcodingclub.github.io/tutorials/earth-engine/)
 - [Global Snow Observatory - Google Earth Engine Tutorials](https://sites.google.com/site/globalsnowobservatory/home/Presentations-and-Tutorials)
 - [GEARS - Getting started with Google Earth Engine](https://www.geospatialecology.com/intro_rs_lab1/)
+- [An Introduction to Remote Sensing for Ecologists Using Google Earth Engine](https://ecology.colostate.edu/google-earth-engine/)
 
 ## Python API
 
