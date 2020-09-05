@@ -302,7 +302,10 @@
 
 ### Highlights
 
+- Aybar, C., Wu, Q., Bautista, L., Yali, R., & Barja, A. (2020). rgee: An R package for interacting with Google Earth Engine. _The Journal of Open Source Software_. 5(51), 2272. https://doi.org/10.21105/joss.02272
 - Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., Moore, R., 2017. Google Earth Engine: Planetary-scale geospatial analysis for everyone. _Remote Sens. Environ_. 202, 18–27. <https://doi.org/10.1016/j.rse.2017.06.031>
+- Wu, Q. (2020). geemap: A Python package for interactive mapping with Google Earth Engine. _The Journal of Open Source Software_. 5(51), 2305. https://doi.org/10.21105/joss.02305
+
 
 ### Journal Special Issues
 
@@ -313,8 +316,10 @@
 
 ### Review
 
+- Amani, M., Ghorbanian, A., Ahmadi, A., Kakooei, M., ..., Wu, Q., & Brisco, B. (2020). Google Earth Engine Cloud Computing Platform for Remote Sensing Big Data Applications: A Comprehensive Review. _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_. <https://doi.org/10.1109/JSTARS.2020.3021052>
 - Kumar, L., Mutanga, O., 2018. Google Earth Engine Applications Since Inception: Usage, Trends, and Potential. _Remote Sensing_ 10, 1509. <https://doi.org/10.3390/rs10101509>
 - Tamiminia, H., Salehi, B., Mahdianpari, M., Quackenbush, L., Adeli, S., Brisco, B., 2020. Google Earth Engine for geo-big data applications: A meta-analysis and systematic review. _ISPRS J. Photogramm. Remote Sens._ 164, 152–170. <https://doi.org/10.1016/j.isprsjprs.2020.04.001>
+- Wang, L., Diao, C., Xian, G., Yin, D., Lu, Y., Zou, S., & Erickson, T. A. (2020). A summary of the special issue on remote sensing of land change science with Google earth engine. _Remote Sensing of Environment_. <https://doi.org/10.1016/j.rse.2020.112002>
 
 ### Hydrology
 
