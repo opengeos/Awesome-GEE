@@ -277,6 +277,7 @@
 - [Surface Water Mapping Tool](http://surface-water-servir.adpc.net/)
 - [Surface water changes (1985-2016)](https://aqua-monitor.appspot.com/)
 - [Decision Support Tools](https://servir.adpc.net/tools)
+- [Earth Map](https://earthmap.org)
 
 ## Datasets
 
