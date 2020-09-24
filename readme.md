@@ -278,6 +278,7 @@
 - [Surface water changes (1985-2016)](https://aqua-monitor.appspot.com/)
 - [Decision Support Tools](https://servir.adpc.net/tools)
 - [Earth Map](https://earthmap.org)
+- [CoastSat shoreline change database](http://coastsat.wrl.unsw.edu.au/)
 
 ## Datasets
 
@@ -369,6 +370,10 @@
 
 - DeVries, B., Huang, C., Armston, J., Huang, W., Jones, J.W., Lang, M.W., 2020. Rapid and robust monitoring of flood events using Sentinel-1 and Landsat data on the Google Earth Engine. _Remote Sens. Environ_. 240, 111664. <https://doi.org/10.1016/j.rse.2020.111664>
 - Liu, C.-C., Shieh, M.-C., Ke, M.-S., Wang, K.-H., 2018. Flood Prevention and Emergency Response System Powered by Google Earth Engine. _Remote Sensing_ 10, 1283. <https://doi.org/10.3390/rs10081283>
+
+### Coastal
+
+- Vos, K., Splinter, K.D., Harley, M.D., Simmons, J.A., Turner, I.L., 2019. CoastSat: A Google Earth Engine-enabled Python toolkit to extract shorelines from publicly available satellite imagery _Environmental Modelling and Software_. 122, 104528. <https://doi.org/10.1016/j.envsoft.2019.104528>
 
 ## Contributing
 
