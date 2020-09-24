@@ -53,6 +53,7 @@
 - [Report a bug](https://issuetracker.google.com/issues?q=componentid:184406&type:bug)
 - [Dataset requests](https://issuetracker.google.com/issues?q=componentid:184426%2B%20status:open)
 - [Feature requests](https://issuetracker.google.com/issues?q=componentid:184406%20type:feature_request%20status:open)
+- [Slack channel for geemap and Earth Engine](https://gishub.org/geemap-slack)
 
 ## JavaScript API
 
@@ -99,6 +100,7 @@
 - [Global Snow Observatory - Google Earth Engine Tutorials](https://sites.google.com/site/globalsnowobservatory/home/Presentations-and-Tutorials)
 - [GEARS - Getting started with Google Earth Engine](https://www.geospatialecology.com/intro_rs_lab1/)
 - [An Introduction to Remote Sensing for Ecologists Using Google Earth Engine](https://ecology.colostate.edu/google-earth-engine/)
+- [An introduction to Google Earth Engine](https://www.paulamoraga.com/tutorial-gee/)
 
 ## Python API
 
