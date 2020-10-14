@@ -284,6 +284,10 @@
 
 ## Datasets
 
+### Community Datasets
+
+- [awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets)
+
 ### Landsat
 
 - [Landsat 8 Surface Reflectance](https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_SR)
