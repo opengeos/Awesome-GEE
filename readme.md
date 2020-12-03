@@ -67,9 +67,8 @@
 - [fitoprincipe/geetools-code-editor](https://github.com/fitoprincipe/geetools-code-editor) - A set of tools to use in Google Earth Engine JavaScript Code Editor.
 - [Fernerkundung/EarthEngine_scripts](https://github.com/Fernerkundung/EarthEngine_scripts) - Scripts and snippets for Google Earth Engine.
 - [Google Earth Engine Toolbox (GEET)](https://github.com/sacridini/GEET) - Library to write small EE apps or big/complex apps with a lot less code.
-- [LandTrendr](https://code.earthengine.google.com/?accept_repo=users/emaprlab/public) -  Spectral-temporal segmentation algorithm.
+- [LandTrendr](https://code.earthengine.google.com/?accept_repo=users/emaprlab/public) - Spectral-temporal segmentation algorithm.
 - [zecojls/tagee](https://github.com/zecojls/tagee) - Terrain Analysis in Google Earth Engine (TAGEE).
-
 
 ### Tutorials
 
@@ -264,7 +263,6 @@
 - GeoInsider webinar - Cloud computing and interactive mapping with Earth Engine and open-source GIS ([video](https://www.bilibili.com/video/BV1Ep4y1X7tJ) - [slides](https://gishub.org/geoinsider))
 - GeoInsider webinar 2 - Using Google Earth Engine for large-scale geospatial analysis: A case study of automated surface water mapping ([video](https://www.bilibili.com/video/BV15z411v7XE) | [slides](https://docs.google.com/presentation/d/1gkT93KCHNdQmL662FdjMjv1QD8fU2DMl0rIxxFSPEFE))
 
-
 ## Projects
 
 - [Google Earth Engine](https://www.researchgate.net/project/Google-Earth-Engine-4) on Research Gate
@@ -314,7 +312,6 @@
 - Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., Moore, R., 2017. Google Earth Engine: Planetary-scale geospatial analysis for everyone. _Remote Sens. Environ_. 202, 18–27. <https://doi.org/10.1016/j.rse.2017.06.031>
 - Wu, Q. (2020). geemap: A Python package for interactive mapping with Google Earth Engine. _The Journal of Open Source Software_. 5(51), 2305. https://doi.org/10.21105/joss.02305
 
-
 ### Journal Special Issues
 
 - _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, Cloud Computing in Google Earth Engine for Remote Sensing ([Call for Papers](https://www.grss-ieee.org/wp-content/uploads/2019/12/Call_for_Paper_GEE.pdf))
@@ -325,6 +322,7 @@
 ### Review
 
 - Amani, M., Ghorbanian, A., Ahmadi, A., Kakooei, M., ..., Wu, Q., & Brisco, B. (2020). Google Earth Engine Cloud Computing Platform for Remote Sensing Big Data Applications: A Comprehensive Review. _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_. <https://doi.org/10.1109/JSTARS.2020.3021052>
+- Boothroyd, R., Williams, R., Hoey, T., Barrett, B., & Prasojo, O. (2020). Applications of Google Earth Engine in fluvial geomorphology for detecting river channel change. _WIREs Water_. <https://doi.org/10.1002/wat2.1496>
 - Kumar, L., Mutanga, O., 2018. Google Earth Engine Applications Since Inception: Usage, Trends, and Potential. _Remote Sensing_ 10, 1509. <https://doi.org/10.3390/rs10101509>
 - Tamiminia, H., Salehi, B., Mahdianpari, M., Quackenbush, L., Adeli, S., Brisco, B., 2020. Google Earth Engine for geo-big data applications: A meta-analysis and systematic review. _ISPRS J. Photogramm. Remote Sens._ 164, 152–170. <https://doi.org/10.1016/j.isprsjprs.2020.04.001>
 - Wang, L., Diao, C., Xian, G., Yin, D., Lu, Y., Zou, S., & Erickson, T. A. (2020). A summary of the special issue on remote sensing of land change science with Google earth engine. _Remote Sensing of Environment_. <https://doi.org/10.1016/j.rse.2020.112002>
