@@ -14,6 +14,7 @@
 - [GitHub Developers](#github-developers)
 - [Twitter](#twitter)
 - [Apps](#apps)
+- [Free Courses](#free-courses)
 - [Presentations](#presentations)
 - [Videos](#videos)
 - [Projects](#projects)
@@ -37,6 +38,7 @@
 - [Issue Tracker](https://issuetracker.google.com/issues?q=componentid:184426&p=1)
 - [Earth Engine API on GitHub](https://github.com/google/earthengine-api)
 - [Google Earth Engine Community Tutorials](https://github.com/google/earthengine-community)
+- [Google Earth Engine Community Developer Resources](https://developers.google.com/earth-engine/tutorials/community/developer-resources)
 
 ## Get Started
 
@@ -69,6 +71,10 @@
 - [Google Earth Engine Toolbox (GEET)](https://github.com/sacridini/GEET) - Library to write small EE apps or big/complex apps with a lot less code.
 - [LandTrendr](https://code.earthengine.google.com/?accept_repo=users/emaprlab/public) - Spectral-temporal segmentation algorithm.
 - [zecojls/tagee](https://github.com/zecojls/tagee) - Terrain Analysis in Google Earth Engine (TAGEE).
+- [ee-palettes](https://github.com/gee-community/ee-palettes) - A module for generating color palettes in Earth Engine to be applied to mapped data.
+- [gee-ccdc-tools](https://gee-ccdc-tools.readthedocs.io/en/latest) - A suite of tools designed for continuous land change monitoring in Google Earth Engine.
+- [Continuous Degradation Detection (CODED)](https://coded.readthedocs.io/en/latest/) - A system for monitoring forest degradation and deforestation.
+- [LT-GEE](https://emapr.github.io/LT-GEE) - Google Earth Engine implementation of the LandTrendr spectral-temporal segmentation algorithm.
 
 ### Tutorials
 
@@ -117,6 +123,9 @@
 - [gee_tools](https://github.com/gee-community/gee_tools) - A set of tools for working with Google Earth Engine Python API.
 - [landsat-extract-gee](https://github.com/loicdtx/landsat-extract-gee) - Get Landsat surface reflectance time-series from google earth engine.
 - [Ndvi2Gif](https://github.com/Digdgeo/Ndvi2Gif) - Creating seasonal NDVI compositions GIFs.
+- [eemont](https://github.com/davemlz/eemont) - A Python package that extends the Google Earth Engine Python API with pre-processing and processing tools.
+- [hydra-floods](https://github.com/Servir-Mekong/hydra-floods) - An open source Python application for downloading, processing, and delivering surface water maps derived from remote sensing data.
+- [restee](https://github.com/KMarkert/restee) - A package that aims to make plugging Earth Engine computations into downstream Python processing easier.
 
 ### Repositories
 
@@ -231,6 +240,10 @@
 - [An image gallery of almost all publicly available Google Earth Engine Apps](https://philippgaertner.github.io/2020/03/ee-apps/) - Philipp Gärtner
 - [A searchable list of all publicly available Google Earth Engine Apps](https://datawrapper.dwcdn.net/4cHkZ/1/)
 
+## Free Courses
+
+- [End-to-End Google Earth Engine](https://courses.spatialthoughts.com/end-to-end-gee.html) - by [Ujaval Gandhi](https://twitter.com/spatialthoughts)
+- [Spatial Data Management with Earth Engine](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPdz9LHIJIxHlZe3t-MRCn61) - by [Qiusheng Wu](https://twitter.com/giswqs)
 ## Presentations
 
 ### geemap
@@ -242,6 +255,7 @@
 ### General
 
 - [SERVIR Global - Introduction to Google Earth Engine](https://servirglobal.net/Portals/0/Documents/Articles/ChangeDetectionTraining/Module2_Intro_Google_Earth_Engine_presentation.pdf)
+
 
 ## Videos
 
