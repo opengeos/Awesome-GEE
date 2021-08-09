@@ -328,6 +328,7 @@
 
 ### Journal Special Issues
 
+- _Journal of Remote Sensing_, Remote Sensing for Environmental and Societal Changes Using Google Earth Engine ([Call for Papers](https://spj.sciencemag.org/journal-of-remote-sensing-special-issues/gee/))
 - _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, Cloud Computing in Google Earth Engine for Remote Sensing ([Call for Papers](https://www.grss-ieee.org/wp-content/uploads/2019/12/Call_for_Paper_GEE.pdf))
 - _Remote Sensing_, Google Earth Engine and Cloud Computing Platforms: Methods and Applications in Big Geo Data Science ([Call for Papers](https://www.mdpi.com/journal/remotesensing/special_issues/GEE_Methods_Applications), [Published Papers](https://www.mdpi.com/journal/remotesensing/special_issues/GEE_Methods_Applications))
 - _Remote Sensning_, Google Earth Engine Applications ([Call for Papers](https://www.mdpi.com/journal/remotesensing/special_issues/GEE), [Published Papers](https://www.mdpi.com/journal/remotesensing/special_issues/GEE))
@@ -390,6 +391,7 @@
 
 - DeVries, B., Huang, C., Armston, J., Huang, W., Jones, J.W., Lang, M.W., 2020. Rapid and robust monitoring of flood events using Sentinel-1 and Landsat data on the Google Earth Engine. _Remote Sens. Environ_. 240, 111664. <https://doi.org/10.1016/j.rse.2020.111664>
 - Liu, C.-C., Shieh, M.-C., Ke, M.-S., Wang, K.-H., 2018. Flood Prevention and Emergency Response System Powered by Google Earth Engine. _Remote Sensing_ 10, 1283. <https://doi.org/10.3390/rs10081283>
+- Tellman, B., Sullivan, J.A., Kuhn, C., Kettner, A.J., Doyle, C.S., Brakenridge, G.R., Erickson, T.A., Slayback, D.A., 2021. Satellite imaging reveals increased proportion of population exposed to floods. _Nature_ 596, 80–86. <https://doi.org/10.1038/s41586-021-03695-w>
 
 ### Coastal
 
