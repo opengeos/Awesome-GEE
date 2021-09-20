@@ -126,6 +126,7 @@
 - [eemont](https://github.com/davemlz/eemont) - A Python package that extends the Google Earth Engine Python API with pre-processing and processing tools.
 - [hydra-floods](https://github.com/Servir-Mekong/hydra-floods) - An open source Python application for downloading, processing, and delivering surface water maps derived from remote sensing data.
 - [restee](https://github.com/KMarkert/restee) - A package that aims to make plugging Earth Engine computations into downstream Python processing easier.
+- [wxee](https://github.com/aazuspan/wxee) - A Python interface between Earth Engine and xarray for processing weather and climate data.
 
 ### Repositories
 
@@ -244,6 +245,7 @@
 
 - [End-to-End Google Earth Engine](https://courses.spatialthoughts.com/end-to-end-gee.html) - by [Ujaval Gandhi](https://twitter.com/spatialthoughts)
 - [Spatial Data Management with Earth Engine](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPdz9LHIJIxHlZe3t-MRCn61) - by [Qiusheng Wu](https://twitter.com/giswqs)
+
 ## Presentations
 
 ### geemap
@@ -255,7 +257,6 @@
 ### General
 
 - [SERVIR Global - Introduction to Google Earth Engine](https://servirglobal.net/Portals/0/Documents/Articles/ChangeDetectionTraining/Module2_Intro_Google_Earth_Engine_presentation.pdf)
-
 
 ## Videos
 
