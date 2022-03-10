@@ -145,7 +145,7 @@
 - [Earth Engine Python API Colab Setup](https://colab.sandbox.google.com/github/google/earthengine-api/blob/master/python/examples/ipynb/ee-api-colab-setup.ipynb)
 - [Earth Engine TensorFlow demonstration notebook](https://colab.sandbox.google.com/github/google/earthengine-api/blob/master/python/examples/ipynb/TF_demo1_keras.ipynb)
 - [Earth Lab - Calculating the area of polygons in Google Earth Engine](https://www.earthdatascience.org/tutorials/basic-polygon-operations-google-earth-engine/)
-- [Symantic Segmentation of GEE High Resolution Imagery](https://gist.github.com/mortcanty/ac4c48e3d10e89676b7fe9b3a6f1ba3a)
+- [Semantic Segmentation of GEE High Resolution Imagery](https://gist.github.com/mortcanty/ac4c48e3d10e89676b7fe9b3a6f1ba3a)
 
 ## R
 
@@ -196,6 +196,7 @@
 - [Philipp Gärtner](https://github.com/philippgaertner)
 - [Eduardo Lacerda](https://github.com/sacridini)
 - [Kel Markert](https://github.com/KMarkert)
+- [Mort Canty](https://gist.github.com/mortcanty)
 - [Keiko Nomura](https://github.com/nkeikon)
 - [Rodrigo E. Principe](https://github.com/fitoprincipe)
 - [Samapriya Roy](https://github.com/samapriya)
@@ -229,6 +230,7 @@
 - [Ujaval Gandhi](https://twitter.com/spatialthoughts)
 - [Philipp Gärtner](https://twitter.com/gartn001)
 - [Belize GEO](https://twitter.com/BZgeo)
+- [Mort Canty](https://twitter.com/mort_canty)
 - [Kel Markert](https://twitter.com/KelMarkert)
 - [Keiko Nomura](https://twitter.com/Keiko_geo)
 - [Samapriya Roy](https://twitter.com/samapriyaroy)
