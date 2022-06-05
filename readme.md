@@ -80,6 +80,8 @@
 - [geeSharp](https://github.com/aazuspan/geeSharp) - Pan-sharpening in the Earth Engine Code Editor.
 - [snazzy](https://github.com/aazuspan/snazzy) - Custom basemap styles in the Earth Engine Code Editor.
 - [ee-polyfill](https://github.com/aazuspan/ee-polyfill) - Modern Javascript methods (ES6+) for the Earth Engine Code Editor.
+- [gee-blend](https://github.com/jessjaco/gee-blend) - Various blending functions for Google Earth Engine.
+- [OpenEarthEngineLibrary](https://www.open-geocomputing.org/OpenEarthEngineLibrary/) - Collection of code goodies for Google Earth Engine (GEE).
 
 ### Tutorials
 
