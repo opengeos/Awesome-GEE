@@ -75,6 +75,13 @@
 - [gee-ccdc-tools](https://gee-ccdc-tools.readthedocs.io/en/latest) - A suite of tools designed for continuous land change monitoring in Google Earth Engine.
 - [Continuous Degradation Detection (CODED)](https://coded.readthedocs.io/en/latest/) - A system for monitoring forest degradation and deforestation.
 - [LT-GEE](https://emapr.github.io/LT-GEE) - Google Earth Engine implementation of the LandTrendr spectral-temporal segmentation algorithm.
+- [spectral](https://github.com/awesome-spectral-indices/spectral) - Awesome Spectral Indices for the Google Earth Engine JavaScript API (Code Editor).
+- [msslib](https://github.com/gee-community/msslib) - An Earth Engine JavaScript library for working with Landsat MSS image data.
+- [geeSharp](https://github.com/aazuspan/geeSharp) - Pan-sharpening in the Earth Engine Code Editor.
+- [snazzy](https://github.com/aazuspan/snazzy) - Custom basemap styles in the Earth Engine Code Editor.
+- [ee-polyfill](https://github.com/aazuspan/ee-polyfill) - Modern Javascript methods (ES6+) for the Earth Engine Code Editor.
+- [gee-blend](https://github.com/jessjaco/gee-blend) - Various blending functions for Google Earth Engine.
+- [OpenEarthEngineLibrary](https://www.open-geocomputing.org/OpenEarthEngineLibrary/) - Collection of code goodies for Google Earth Engine (GEE).
 
 ### Tutorials
 
@@ -127,6 +134,7 @@
 - [hydra-floods](https://github.com/Servir-Mekong/hydra-floods) - An open source Python application for downloading, processing, and delivering surface water maps derived from remote sensing data.
 - [restee](https://github.com/KMarkert/restee) - A package that aims to make plugging Earth Engine computations into downstream Python processing easier.
 - [wxee](https://github.com/aazuspan/wxee) - A Python interface between Earth Engine and xarray for processing weather and climate data.
+- [taskee](https://github.com/aazuspan/taskee) - Monitor your Earth Engine tasks and get notifications on your phone or computer.
 
 ### Repositories
 
