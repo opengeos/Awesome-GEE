@@ -135,6 +135,7 @@
 - [restee](https://github.com/KMarkert/restee) - A package that aims to make plugging Earth Engine computations into downstream Python processing easier.
 - [wxee](https://github.com/aazuspan/wxee) - A Python interface between Earth Engine and xarray for processing weather and climate data.
 - [taskee](https://github.com/aazuspan/taskee) - Monitor your Earth Engine tasks and get notifications on your phone or computer.
+- [geedim](https://github.com/dugalh/geedim) - Search, composite, and download Earth Engine imagery, without size limits.
 
 ### Repositories
 
