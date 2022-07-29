@@ -354,6 +354,8 @@
 - Kumar, L., Mutanga, O., 2018. Google Earth Engine Applications Since Inception: Usage, Trends, and Potential. _Remote Sensing_ 10, 1509. <https://doi.org/10.3390/rs10101509>
 - Tamiminia, H., Salehi, B., Mahdianpari, M., Quackenbush, L., Adeli, S., Brisco, B., 2020. Google Earth Engine for geo-big data applications: A meta-analysis and systematic review. _ISPRS J. Photogramm. Remote Sens._ 164, 152–170. <https://doi.org/10.1016/j.isprsjprs.2020.04.001>
 - Wang, L., Diao, C., Xian, G., Yin, D., Lu, Y., Zou, S., & Erickson, T. A. (2020). A summary of the special issue on remote sensing of land change science with Google earth engine. _Remote Sensing of Environment_. <https://doi.org/10.1016/j.rse.2020.112002>
+- Yang, L., Driscol, J., Sarigai, S., Wu, Q., Chen, H., & Lippitt, C. D. (2022). Google Earth Engine and Artificial Intelligence (AI): A Comprehensive Review. _Remote Sensing_, 14(14), 3253. <https://doi.org/10.3390/rs14143253>
+- Yang, L., Driscol, J., Sarigai, S., Wu, Q., Lippitt, C. D., & Morgan, M. (2022). Towards Synoptic Water Monitoring Systems: A Review of AI Methods for Automating Water Body Detection and Water Quality Monitoring Using Remote Sensing. _Sensors_, 22(6), 2416. <https://doi.org/10.3390/s22062416>
 
 ### Hydrology
 
