@@ -116,7 +116,7 @@
 
 ### Books
 
--[Cloud-Based Remote Sensing with Google Earth Engine](https://www.eefabook.org/)
+- [Cloud-Based Remote Sensing with Google Earth Engine](https://www.eefabook.org/)
 
 ## Python API
 
@@ -159,6 +159,10 @@
 - [Earth Engine TensorFlow demonstration notebook](https://colab.sandbox.google.com/github/google/earthengine-api/blob/master/python/examples/ipynb/TF_demo1_keras.ipynb)
 - [Earth Lab - Calculating the area of polygons in Google Earth Engine](https://www.earthdatascience.org/tutorials/basic-polygon-operations-google-earth-engine/)
 - [Semantic Segmentation of GEE High Resolution Imagery](https://gist.github.com/mortcanty/ac4c48e3d10e89676b7fe9b3a6f1ba3a)
+
+### Books
+
+- [Geospatial Data Science with Earth Engine and Geemap](https://book.geemap.org/)
 
 ## R
 
