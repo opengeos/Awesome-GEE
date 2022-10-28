@@ -114,6 +114,10 @@
 - [An Introduction to Remote Sensing for Ecologists Using Google Earth Engine](https://ecology.colostate.edu/google-earth-engine/)
 - [An introduction to Google Earth Engine](https://www.paulamoraga.com/tutorial-gee/)
 
+### Books
+
+-[Cloud-Based Remote Sensing with Google Earth Engine](https://www.eefabook.org/)
+
 ## Python API
 
 ### Installation
