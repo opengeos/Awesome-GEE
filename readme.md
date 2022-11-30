@@ -254,6 +254,7 @@
 - [Sabrina Szeto](https://twitter.com/SabrinaSzeto)
 - [Dave Thau](https://twitter.com/davethau)
 - [Qiusheng Wu](https://twitter.com/giswqs)
+- [Iain H Woodhouse](https://twitter.com/fortiain)
 
 ## Apps
 
@@ -265,6 +266,7 @@
 
 - [End-to-End Google Earth Engine](https://courses.spatialthoughts.com/end-to-end-gee.html) - by [Ujaval Gandhi](https://twitter.com/spatialthoughts)
 - [Spatial Data Management with Earth Engine](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPdz9LHIJIxHlZe3t-MRCn61) - by [Qiusheng Wu](https://twitter.com/giswqs)
+- [Professor Iain Woodhouse’s guide to GEE resources and courses](https://www.earthblox.io/blog/google-earth-engine-training-2022)
 
 ## Presentations
 
