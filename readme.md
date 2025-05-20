@@ -288,7 +288,7 @@
 ### Google
 
 - [Geo For Good 2019 on YouTube](https://www.youtube.com/playlist?list=PLLW-qoCMKQsxxXRmzxEJQhUrdX0kekHhV)
-- [Geo For Good 2022 on YouTube]([https://www.youtube.com/playlist?list=PLLW-qoCMKQsxtBLPK-_I8HFRa9SKSuorW)
+- [Geo For Good 2022 on YouTube](https://www.youtube.com/playlist?list=PLLW-qoCMKQsxtBLPK-_I8HFRa9SKSuorW)
 - [Geo For Good 2023 on YouTube](https://www.youtube.com/playlist?list=PLLW-qoCMKQsx_YHs95aOHguU7XpKl75Fk)
 - [Earth Engine Video2Tutorials](https://developers.google.com/earth-engine/tutorials#video-tutorials)
 
