@@ -131,7 +131,7 @@
 - [geeadd](https://github.com/samapriya/gee_asset_manager_addon) - Google Earth Engine Batch Asset Manager with Addons.
 - [geeup](https://github.com/samapriya/geeup) - Simple CLI for Google Earth Engine Uploads.
 - [cartoee](https://github.com/KMarkert/cartoee) - Publication quality maps using Earth Engine and Cartopy.
-- [gee_tools](https://github.com/gee-community/gee_tools) - A set of tools for working with Google Earth Engine Python API.
+- [geetools](https://github.com/gee-community/geetools) - A set of tools for working with Google Earth Engine Python API.
 - [landsat-extract-gee](https://github.com/loicdtx/landsat-extract-gee) - Get Landsat surface reflectance time-series from google earth engine.
 - [Ndvi2Gif](https://github.com/Digdgeo/Ndvi2Gif) - Creating seasonal NDVI compositions GIFs.
 - [eemont](https://github.com/davemlz/eemont) - A Python package that extends the Google Earth Engine Python API with pre-processing and processing tools.
