@@ -322,6 +322,7 @@
 - [Surface water changes (1985-2016)](https://aqua-monitor.appspot.com/)
 - [Decision Support Tools](https://servir.adpc.net/tools)
 - [Earth Map](https://earthmap.org)
+- [Mapbase](https://mapbase.dev/) - Location registry API for official locations, custom zones, hierarchy, geometry, and SEO-ready location context.
 - [CoastSat shoreline change database](http://coastsat.wrl.unsw.edu.au/)
 
 ## Datasets
