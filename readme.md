@@ -190,6 +190,7 @@
 ### Repositories
 
 - [qgis-earthengine-examples](https://github.com/giswqs/qgis-earthengine-examples) - A collection of 300+ Python examples for using Google Earth Engine in QGIS.
+- [QGIS_AI-Segmentation](https://github.com/TerraLabAI/QGIS_AI-Segmentation) - Open-source QGIS plugin for point-and-click segmentation of buildings, trees and any object on satellite and drone imagery into vector polygons.
 
 ### Tutorials
 
