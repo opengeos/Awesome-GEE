@@ -267,6 +267,7 @@
 - [Earth Engine App Filter](https://philippgaertner-ee-appshot-streamlit-filte-streamlit-app-j29b7u.streamlit.app/) by Philipp Gärtner
 - [LYRASENSE](https://lyrasense.com) - Agentic AI platform for Google Earth Engine with notebook environment, 28+ analysis templates, and automated satellite data workflows.
 - [Similar Earth](https://similar.earth) - Open source similarity search engine built on AlphaEarth to find places on Earth that look alike.
+- [SatLit](https://github.com/Mastro1/SatLit) - A no-code Streamlit dashboard for extracting satellite and climate datasets from Google Earth Engine.
 
 ## Free Courses
 
