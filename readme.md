@@ -82,7 +82,7 @@
 - [ee-polyfill](https://github.com/aazuspan/ee-polyfill) - Modern Javascript methods (ES6+) for the Earth Engine Code Editor.
 - [gee-blend](https://github.com/jessjaco/gee-blend) - Various blending functions for Google Earth Engine.
 - [OpenEarthEngineLibrary](https://www.open-geocomputing.org/OpenEarthEngineLibrary/) - Collection of code goodies for Google Earth Engine (GEE).
-- [RisaRezaei/gee-wetland-water-rf](https://github.com/RisaRezaei/gee-wetland-water-rf) - Random Forest open-water mapping for lakes and wetlands from Landsat 5–9, with accuracy assessment and a water-area time series.
+- [RisaRezaei/gee-wetland-water-rf](https://github.com/RisaRezaei/gee-wetland-water-rf) - Random Forest open-water mapping for lakes and wetlands from Landsat 5/7/8/9, with accuracy assessment and a water-area time series.
 - [RisaRezaei/gee-air-quality-toolkit](https://github.com/RisaRezaei/gee-air-quality-toolkit) - Monthly Sentinel-5P (NO₂, SO₂, CO, O₃, HCHO) and MODIS AOD for a region and its monitoring stations in one tidy table.
 
 ### Tutorials
