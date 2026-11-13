@@ -150,6 +150,7 @@
 - [earthengine-py-examples](https://github.com/giswqs/earthengine-py-examples) - A collection of 300+ examples for using Earth Engine and the geemap Python package.
 - [ee-tensorflow-notebooks](https://github.com/gee-community/ee-tensorflow-notebooks) - Repository to place example notebooks for Deep Learning applications with TensorFlow and Earth Engine.
 - [CoastSat](https://github.com/kvos/CoastSat) - Global shoreline mapping tool from satellite imagery.
+- [Contour Alley Designer](https://github.com/viridisconservation/contour-alley-designer) - Agroforestry layout and simulation tool that exports a field's 3DEP terrain, NLCD land cover and satellite embedding from Earth Engine.
 - [Google-Earth-Engine-Python-Examples](https://github.com/renelikestacos/Google-Earth-Engine-Python-Examples)
 - [csaybar/EEwPython](https://github.com/csaybar/EEwPython)
 
